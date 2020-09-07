@@ -1,0 +1,2 @@
+# arithmitic
+arithmitics of study
