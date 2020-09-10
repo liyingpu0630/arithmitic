@@ -10,7 +10,7 @@ arithmitics of study
 
 下边是整理了一下数据结构和算法相关的内容
 
-![]()
+![](https://github.com/liyingpu0630/arithmitic/blob/master/images/arithmetic.png)
 
 ## 深入掌握算法
 
