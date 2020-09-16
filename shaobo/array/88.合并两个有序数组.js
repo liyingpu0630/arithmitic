@@ -19,21 +19,12 @@ var merge = function(nums1, m, nums2, n) {
     var p = m - 1;
     var q = n - 1;
 
-    while (t > -1) {
-        let value1 = nums1[p];
-        let value2 = nums2[q];
+    while (p > -1 && q > -1) {
+        nums1[t--] = nums2[q] > nums1[p] ? nums2[q--] : nums1[p--];
+    }
 
-        if (value2 >= value1 && q > -1) {
-            nums1[t] = value2;
-            q--;
-        }
-
-        if (value1 > value2 && p > -1) {
-            nums1[t] = value1;
-            p--;
-        }
-
-        t--;
+    while (q > -1) {
+        nums1[t--] = nums2[q--];
     }
 };
 // @lc code=end
