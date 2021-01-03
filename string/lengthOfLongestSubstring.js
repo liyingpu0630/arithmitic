@@ -23,4 +23,4 @@ function lengthOfLongestSubstring (s) {
     return max;
 };
 
-console.log(lengthOfLongestSubstring('asdsf'));
+console.log(lengthOfLongestSubstring('ttttdtstf'));
