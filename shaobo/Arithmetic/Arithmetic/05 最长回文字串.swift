@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution_05 {
     
     /*
      动态规划算法

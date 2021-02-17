@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF8A0C0325DA80F000C6C8F9 /* Tree_108_将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8A0C0225DA80F000C6C8F9 /* Tree_108_将有序数组转换为二叉搜索树.swift */; };
+		EF8A0C0625DB662000C6C8F9 /* Tree_94_二叉树中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8A0C0525DB662000C6C8F9 /* Tree_94_二叉树中序遍历.swift */; };
+		EF8A0C0925DB6FC200C6C8F9 /* Tree_NC_二叉树先序、中序、后序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8A0C0825DB6FC200C6C8F9 /* Tree_NC_二叉树先序、中序、后序遍历.swift */; };
 		EF92C25B259727FF001A7782 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF92C25A259727FF001A7782 /* main.swift */; };
 		EF92C26325972823001A7782 /* 05 最长回文字串.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF92C26225972823001A7782 /* 05 最长回文字串.swift */; };
 		EFE7608925A1AFBE00831C57 /* 最长公共子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE7608825A1AFBE00831C57 /* 最长公共子序列.swift */; };
@@ -27,6 +30,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		EF8A0C0225DA80F000C6C8F9 /* Tree_108_将有序数组转换为二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tree_108_将有序数组转换为二叉搜索树.swift"; sourceTree = "<group>"; };
+		EF8A0C0525DB662000C6C8F9 /* Tree_94_二叉树中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tree_94_二叉树中序遍历.swift"; sourceTree = "<group>"; };
+		EF8A0C0825DB6FC200C6C8F9 /* Tree_NC_二叉树先序、中序、后序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tree_NC_二叉树先序、中序、后序遍历.swift"; sourceTree = "<group>"; };
 		EF92C257259727FF001A7782 /* Arithmetic */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Arithmetic; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF92C25A259727FF001A7782 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EF92C26225972823001A7782 /* 05 最长回文字串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05 最长回文字串.swift"; sourceTree = "<group>"; };
@@ -66,6 +72,9 @@
 			isa = PBXGroup;
 			children = (
 				EF92C25A259727FF001A7782 /* main.swift */,
+				EF8A0C0225DA80F000C6C8F9 /* Tree_108_将有序数组转换为二叉搜索树.swift */,
+				EF8A0C0825DB6FC200C6C8F9 /* Tree_NC_二叉树先序、中序、后序遍历.swift */,
+				EF8A0C0525DB662000C6C8F9 /* Tree_94_二叉树中序遍历.swift */,
 				EF92C26225972823001A7782 /* 05 最长回文字串.swift */,
 				EFE7608825A1AFBE00831C57 /* 最长公共子序列.swift */,
 				EFE7608B25A1AFD900831C57 /* 动态规划 0-1背包.swift */,
@@ -131,6 +140,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF8A0C0925DB6FC200C6C8F9 /* Tree_NC_二叉树先序、中序、后序遍历.swift in Sources */,
+				EF8A0C0625DB662000C6C8F9 /* Tree_94_二叉树中序遍历.swift in Sources */,
+				EF8A0C0325DA80F000C6C8F9 /* Tree_108_将有序数组转换为二叉搜索树.swift in Sources */,
 				EF92C26325972823001A7782 /* 05 最长回文字串.swift in Sources */,
 				EFE7608C25A1AFD900831C57 /* 动态规划 0-1背包.swift in Sources */,
 				EFE7608925A1AFBE00831C57 /* 最长公共子序列.swift in Sources */,
